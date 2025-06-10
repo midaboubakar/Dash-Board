@@ -1,0 +1,14 @@
+.stats-overview {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.stats-overview div {
+  background-color: #222;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 150px;
+  text-align: center;
+}
